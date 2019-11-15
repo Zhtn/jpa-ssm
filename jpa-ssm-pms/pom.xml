@@ -28,7 +28,7 @@
         <jsp-api.version>2.0</jsp-api.version>
         <spring.version>5.0.2.RELEASE</spring.version>
         <mysql.version>5.1.46</mysql.version>
-        <spring.security.version>5.0.2.RELEASE</spring.security.version>
+        <spring.security.version>5.2.1.RELEASE</spring.security.version>
         <hibernate.version>5.0.7.Final</hibernate.version>
     </properties>
 
